@@ -1,0 +1,34 @@
+# Compiled class files
+*.class
+*.jar
+*.war
+
+# Maven build output
+target/
+bin/
+
+# IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+nbproject/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Database (generated at runtime)
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+# Logs & temp
+*.log
+*.tmp
+*.swp
+*~
